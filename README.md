@@ -4,7 +4,7 @@ An OpenFaas function for getting METAR information for an aviation weather stati
 
 # Local Setup
 
-Assuming you have OpenFaas setup on your local machine, clone this repo and execute the make file as shown:
+Assuming you have [OpenFaas](https://github.com/openfaas/faas) setup on your local machine, clone this repo and execute the make file as shown:
 
 ```
  make deploy-test-local
